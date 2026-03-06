@@ -1001,12 +1001,13 @@ def initiate_payout(worker, amount_inr, claim):
 
 | Name | Role |
 |---|---|
-| [Member 1] | Full-Stack (React + Django + WhatsApp Webhook) |
-| [Member 2] | ML/AI Engineer (Python, scikit-learn, XGBoost, Prophet) |
-| [Member 3] | Backend + DevOps (Django, PostgreSQL, Celery, Redis) |
-| [Member 4] | UI/UX + Frontend (React, Tailwind CSS, WhatsApp UX flows) |
+| [Soumya Das] | Full-Stack (React + Django + WhatsApp Webhook) |
+| [Tanisha] | UI/UX + Frontend (React, Tailwind CSS, WhatsApp UX flows) |
+| [Rimi Banerjee] | Backend + DevOps (Django, PostgreSQL, Celery, Redis) |
+| [N.Kamakshi Lakshmi Bhai ] | UI/UX + Frontend (React, Tailwind CSS, WhatsApp UX flows) |
+| [Jagyanseni Paikaraya] | ML/AI Engineer (Python, scikit-learn, XGBoost, Prophet) |
 
-**Institution:** [Your College / University Name]  
+**Institution:** [Parul University]  
 **GitHub Repository:** [Add your repo link here]  
 **Phase 1 Demo Video:** [Add video link here]
 
